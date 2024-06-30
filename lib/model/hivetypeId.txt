@@ -1,0 +1,69 @@
+typeId List
+
+----class---------------typeId----
+ Master_Userherds                =    0
+ Master_Userlots                 =    1
+ Master_species                  =    2
+ Master_breed                    =    3
+ Master_service                  =    4
+ Master_pd1                      =    5
+ Master_pd2                      =    6
+ Master_sex                      =    7
+ Master_calvingType              =    8
+ Master_calvingTypeOption        =    9
+ Master_disposal                 =    10
+ Master_disposalSubOptions       =    11
+ Master_reproductveProblem       =    12
+ Master_dryOffReason             =    13
+ Master_paramter                 =    14
+ Master_inseminator              =    15
+ Master_sire                     =    16
+ Master_vaccinationType          =    17
+ Master_status                   =    18
+ Master_smsSetting               =    19
+ Master_dewormingType            =    20
+ Master_medicineRoute            =    21
+ Master_treatmentComplaint       =    22
+ Master_medicineType             =    23
+ Master_medicineLedger           =    24
+ Master_systemAffected           =    25
+ Master_diagnosis                =    26
+ Master_feature                  =    27
+ Master_userFeatureAccessDetail  =    28
+ Master_sireStock                =    29
+ Animal_details                  =    30
+ Animal_treatmentDetails         =    31
+ Animal_Disposal                 =    32
+ Animal_Deworming                =    33
+ Animal_reproduction             =    34
+ Animal_production               =    35
+ Animal_timeline                 =    36
+ Animal_Treatment_details        =    37
+ Animal_treatment                =    38
+ Animal_weight_entry_model       =    39
+ Animal_Vaccination              =    40
+ Breeding_reproduction_id              =    41
+ Animal_Details_id                     =    42
+ Milk_production_id                    =    43
+ visitregistration                     =    44
+ Vehicle_purpose                       =    45
+ Vehicle_data                       =    46
+
+
+ ---- entry from table
+ Breeding_insemination  =    47
+ Breeding_PD =    48
+ Breeding_Abortion =    49
+ Breeding_Calving =    53
+ Breeding_Dry =    51
+ Get_Master_Farmer =    55
+ Milk_PDTest =    56
+Animal_Registration  =  60
+Notification = 61
+
+
+
+
+
+
+
